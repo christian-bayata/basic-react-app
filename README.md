@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Functionality
+This basic react app allows you to increment values from "Zero" to any number.\
+It also you delete a value (even though it has already been incremented)
+
 ## Available Scripts
 
 In the project directory, you can run:
